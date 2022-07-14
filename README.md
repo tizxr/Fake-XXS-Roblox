@@ -6,6 +6,7 @@
 
 # Setup.
 - Go To The Code, You Will See A List Like This ["4kByron", "Builderman", "Roblox"], replace the usernames that you want to fake-log
+- Put Your Webhook In Strings Where It Says You To Put It.
 - Recommended to run this code at https://repl.it because you get a nice little link there aswell.
 
 # This Is Fake, Do Not Expect It To Work.
